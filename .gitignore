@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.spec
+build/
+dist/
+logs/
+state/
+settings.json
+tools/_shot_home/
+tools/shot.png
+.workbuddy/
+tools/*.png

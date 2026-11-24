@@ -1,0 +1,37 @@
+{
+  "_说明": "camera_extensions.json —— 仅『拍摄文件』模式使用的后缀清单，可自行增删。后缀不区分大小写。",
+  "photo": [
+    ".ARW",
+    ".JPG",
+    ".JPEG",
+    ".HIF",
+    ".HEIF"
+  ],
+  "video": [
+    ".MP4",
+    ".MTS"
+  ],
+  "meta": [
+    ".XML",
+    ".CPI",
+    ".THM"
+  ],
+  "extra": [],
+  "_其他品牌示例": {
+    "canon": [
+      ".CR2",
+      ".CR3",
+      ".MOV"
+    ],
+    "nikon": [
+      ".NEF",
+      ".NRW"
+    ],
+    "fuji": [
+      ".RAF"
+    ],
+    "panasonic": [
+      ".RW2"
+    ]
+  }
+}
